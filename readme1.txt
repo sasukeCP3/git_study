@@ -3,3 +3,7 @@ GGGGGGGGGGGGGGGGGGGGGGG
 LLLLL
 
 pppppppppppp
+
+
+、
+oooooooooooo
