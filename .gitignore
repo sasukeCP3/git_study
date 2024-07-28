@@ -1,2 +1,4 @@
 #忽略js目录
 /js/
+# 禁止提交no.txt
+!no.txt
